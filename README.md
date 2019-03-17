@@ -14,7 +14,7 @@ Docker Toolbox - https://docs.docker.com/toolbox/overview/
 
 ### Clone and Deploy
 
-A step by step procedure that tells you how to create a docker container and deploy it on heroku
+Step by step procedure that tells you how to create a docker container and deploy it on heroku
 
 #### Clone the Repo
 
