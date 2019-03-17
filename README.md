@@ -7,6 +7,7 @@ This repo holds the code for node app with Docker file.
 You need to have the following installed, up and running on your machine.
 
 ```
+Git - https://git-scm.com/downloads
 Node.js - https://nodejs.org/en/download/
 Heroku - https://devcenter.heroku.com/articles/heroku-cli
 Docker Toolbox - https://docs.docker.com/toolbox/overview/
@@ -56,4 +57,4 @@ https://docker-nodejs.herokuapp.com/
 
 
 ### Authors
-opyright (c) 2019 Kishore Kumar Govindaradjou <kishorekumar080297@gmail.com>
+Copyright (c) 2019 Kishore Kumar Govindaradjou
