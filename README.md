@@ -44,7 +44,7 @@ heroku container:login
 
 heroku create <app-name>
 
-docker build -r registry.heroku.com/<app-name>/web .
+docker build -t registry.heroku.com/<app-name>/web .
 
 docker push registry.heroku.com/<app-name>/web
 
